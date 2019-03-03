@@ -1,3 +1,3 @@
 # HTML-Tutorial
 
-# In this lessons i Will teach you the HTML and how to use it.
+## In this lessons I will Teaching you how To Use the HTML.
