@@ -18,6 +18,8 @@ welcome to HTML Tutorial for beginners
 ![HTML lesson one Paragraph][HTML]
 
 [HTML]: https://github.com/AbdifatahMuse/HTML-Tutorial/blob/master/HTML.jpg "HTML"
+
+
 Table of Contents that Will Cover in this lessons
 ------
 1. Paragraph.
