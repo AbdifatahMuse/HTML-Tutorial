@@ -2,7 +2,21 @@
 
 welcome to HTML Tutorial for beginners
 
-![HTML lessons one Paragraph][HTML]
+```HTML
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> lesson one </title>
+  </head>
+  <body>
+
+  </body>
+</html>
+```
+
+![HTML lessons one Paragraph][HTMLLOGO]
+
+[HTMLLOGO]:
 We Will Cover in this lessons
 ------
 1. Paragraph
