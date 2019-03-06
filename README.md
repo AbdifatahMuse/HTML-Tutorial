@@ -1,6 +1,7 @@
 # HTML-Tutorial
 
-welcome to HTML Tutorial for beginners
+Welcome To HTML Tutorial for beginners.
+I will Teaching you how To Use the HTML to build your website.
 
 ```HTML
 <!DOCTYPE html>
@@ -9,19 +10,18 @@ welcome to HTML Tutorial for beginners
     <title> lesson one </title>
   </head>
   <body>
-
+    <p>Hello, World</p>
   </body>
 </html>
 ```
 
-
 ![HTML lesson one Paragraph][HTML]
 
-[HTML]: https://github.com/AbdifatahMuse/HTML-Tutorial/blob/master/HTML.jpg "HTML"
-
+[HTML]: https://github.com/AbdifatahMuse/HTML-Tutorial/blob/master/HTML.jpg "HTML lesson one Paragraph"
 
 Table of Contents that Will Cover in this lessons
 ------
+
 1. Paragraph.
 2. Heading, comments.
 3. Text formatting.
@@ -34,6 +34,3 @@ Table of Contents that Will Cover in this lessons
 10. Video.
 11. Audio.
 12. YouTube.
-
-
-## In this lessons I will Teaching you how To Use the HTML.
