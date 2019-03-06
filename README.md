@@ -14,6 +14,7 @@ welcome to HTML Tutorial for beginners
 </html>
 ```
 
+
 ![ HTML lesson one Paragraph][HTML.jpg]
 
 Table of Contents We Will Cover in this lessons
