@@ -15,9 +15,10 @@ welcome to HTML Tutorial for beginners
 ```
 
 
-![ HTML lesson one Paragraph][HTML]
+![HTML lesson one Paragraph][HTML]
 
-Table of Contents We Will Cover in this lessons
+
+Table of Contents that Will Cover in this lessons
 ------
 1. Paragraph.
 2. Heading, comments.
