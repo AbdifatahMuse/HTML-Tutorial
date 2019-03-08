@@ -1,8 +1,9 @@
 # HTML-Tutorial
 
-Welcome To HTML Tutorial for beginners.
+#### Welcome To HTML Tutorial for beginners.
 
-I will Teaching you how To Use the HTML to build your website.
+You will learn how to use HTML to author an HTML page to display in a web browser.
+
 
 ```HTML
 <!DOCTYPE html>
@@ -23,15 +24,14 @@ I will Teaching you how To Use the HTML to build your website.
 Table of Contents that Will Cover in this lessons
 ------
 
-1. Paragraph.
-2. Heading, comments.
-3. Text formatting.
-4. Styling, Blocks, Color.
-5. Links, images.
-6. Table.
-7. Lists.
-8. Frames.
-9. Input.
-10. Video.
-11. Audio.
-12. YouTube.
+1. Paragraph, Heading.
+2. Text formatting, comments.
+3. Styling, Blocks, Color.
+4. Links, images.
+5. Table.
+6. Lists.
+7. Frames.
+8. Input.
+9. Video.
+10. Audio.
+11. YouTube.
