@@ -4,7 +4,6 @@
 
 You will learn how to use HTML to author an HTML page to display in a web browser.
 
-##### visit My YouTube Channel [https://www.youtube.com/channel/UCwLQmYGbA42ekve1Nl035ow/featured]
 
 ```HTML
 <!DOCTYPE html>
@@ -36,3 +35,10 @@ Table of Contents that Will Cover in this lessons
 9. Video.
 10. Audio.
 11. YouTube.
+
+
+
+##### My YouTube Channel
+Dev Coding: [https://www.youtube.com/channel/UCwLQmYGbA42ekve1Nl035ow/featured]
+
+<a href="https://youtu.be/nbOkQBpixb8" target="_blank"></a>
