@@ -38,7 +38,5 @@ Table of Contents that Will Cover in this lessons
 
 
 
-##### My YouTube Channel
+##### Visit My YouTube Channel
 Dev Coding: [https://www.youtube.com/channel/UCwLQmYGbA42ekve1Nl035ow/featured]
-
-<a href="https://youtu.be/nbOkQBpixb8" target="_blank"></a>
