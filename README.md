@@ -19,7 +19,7 @@ You will learn how to use HTML to author an HTML page to display in a web browse
 
 ![HTML lesson one Paragraph][HTML]
 
-[HTML]: https://github.com/AbdifatahMuse/HTML-Tutorial/blob/master/HTML%20Cover.jpg "HTML lesson one Paragraph"
+[HTML]: https://github.com/AbdifatahMuse/HTML-Tutorial/blob/master/img/HTML%20Cover.jpg "HTML lesson one Paragraph"
 
 Table of Contents that Will Cover in this lessons
 ------
