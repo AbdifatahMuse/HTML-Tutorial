@@ -39,4 +39,4 @@ Table of Contents that Will Cover in this lessons
 
 
 ##### Visit My YouTube Channel
-Dev Coding: [https://www.youtube.com/channel/UCwLQmYGbA42ekve1Nl035ow/featured]
+Dev Coding: https://www.youtube.com/channel/UCwLQmYGbA42ekve1Nl035ow/featured
